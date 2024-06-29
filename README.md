@@ -12,12 +12,12 @@ The project improves cloud infrastructure provisioning and management using Terr
 ## Project Objectives
 *The project objectives are outlined as follows*:
 
-*Develop a framework for efficiently designing a cloud-based dashboard using AWS resources and Power BI*
-*Utilize a data query script using SQL and configuration codes for effective data manipulation and implementation*.
-*Perform the Extract, Transform, and Load (ETL) process effectively*.
-*Deploy the database into the cloud programmatically*.
-*Implement a system for creating visualizations and interactive reports using Power BI*.
-*Test, evaluate, and validate the dashboard's performance against the existing system*​
+- *Develop a framework for efficiently designing a cloud-based dashboard using AWS resources and Power BI*
+- *Utilize a data query script using SQL and configuration codes for effective data manipulation and implementation*.
+- *Perform the Extract, Transform, and Load (ETL) process effectively*.
+- *Deploy the database into the cloud programmatically*.
+- *Implement a system for creating visualizations and interactive reports using Power BI*.
+- *Test, evaluate, and validate the dashboard's performance against the existing system*​
 ## Implementation
 Terraform script was used to provision several AWS Resourcess such as EC2, S3 Bucket, RDS etc. Microsoft SSMS was used for the database management and Power BI for Visualisation. 
 [The Cloud Architeral Design](https://github.com/balqis91/Development-of-a-Cloud-Based-Health-Monitoring-Dashboard-Using-Microsoft-Power-BI-/blob/main/Cloud%20Architecture%20Design.png)

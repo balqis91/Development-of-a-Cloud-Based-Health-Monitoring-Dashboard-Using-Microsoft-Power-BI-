@@ -23,7 +23,11 @@ Terraform script was used to provision several AWS Resourcess such as EC2, S3 Bu
 [The Cloud Architeral Design](https://github.com/balqis91/Development-of-a-Cloud-Based-Health-Monitoring-Dashboard-Using-Microsoft-Power-BI-/blob/main/Cloud%20Architecture%20Design.png)
 ## The Data Modelling
 After the successful deployment of the AWS resources and integration of the with the Database which is SQL server management studio, the Kpis spoecified in the Lung Cancer disease was used as a guideline for modelling and querying the dataset in the SSMS before the dashboard was created in the cloud. Access to the database was only granted to the database admisnistor in other to prevent unauthorised access from gaining access to the organisation database.
-[Database Modelling]()
-[This is the link to the final dashboard created using the AWS resources after all the three Terraform syntax has been carried out](https://app.powerbi.com/view?r=eyJrIjoiMDI3Y2MwNmQtZWIyMC00YTAwLWJmOTYtMzQyMTU0OTFiOTE2IiwidCI6IjI1ZWI2OTYzLTRlYmEtNGUzOC1hODM2LWVjZTgyNjlkOGQyMyJ9
+[Database Modelling](https://github.com/balqis91/Development-of-a-Cloud-Based-Health-Monitoring-Dashboard-Using-Microsoft-Power-BI-/blob/main/Modelling%20of%20the%20Lung%20Cancer%20Database.png)
+## Dashboard Design
+After successful Modelling of the Dataset, the data was import into Power Query for cleaning and transformation, before the dashnoard was finally designed. 
+
+[This is the link to the final dashboard created using the AWS resources after all the three Terraform syntax has been carried out](https://app.powerbi.com/view?
+r=eyJrIjoiMDI3Y2MwNmQtZWIyMC00YTAwLWJmOTYtMzQyMTU0OTFiOTE2IiwidCI6IjI1ZWI2OTYzLTRlYmEtNGUzOC1hODM2LWVjZTgyNjlkOGQyMyJ9
 
 )

@@ -26,8 +26,7 @@ After the successful deployment of the AWS resources and integration of the with
 [Database Modelling](https://github.com/balqis91/Development-of-a-Cloud-Based-Health-Monitoring-Dashboard-Using-Microsoft-Power-BI-/blob/main/Modelling%20of%20the%20Lung%20Cancer%20Database.png)
 ## Dashboard Design
 After successful Modelling of the Dataset, the data was import into Power Query for cleaning and transformation, before the dashnoard was finally designed. 
-
-[This is the link to the final dashboard created using the AWS resources after all the three Terraform syntax has been carried out](https://app.powerbi.com/view?
-r=eyJrIjoiMDI3Y2MwNmQtZWIyMC00YTAwLWJmOTYtMzQyMTU0OTFiOTE2IiwidCI6IjI1ZWI2OTYzLTRlYmEtNGUzOC1hODM2LWVjZTgyNjlkOGQyMyJ9
+[This is the link to the final dashboard created using the AWS resources after all the three Terraform syntax has been carried out]([https://app.powerbi.com/view?
+r=eyJrIjoiMDI3Y2MwNmQtZWIyMC00YTAwLWJmOTYtMzQyMTU0OTFiOTE2IiwidCI6IjI1ZWI2OTYzLTRlYmEtNGUzOC1hODM2LWVjZTgyNjlkOGQyMyJ9](https://github.com/balqis91/Development-of-a-Cloud-Based-Health-Monitoring-Dashboard-Using-Microsoft-Power-BI-/blob/main/Final%20Dashboard.png)
 
 )
